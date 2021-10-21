@@ -1,0 +1,5 @@
+echo Updating System
+sudo pacman -Syu
+
+
+echo code stable
