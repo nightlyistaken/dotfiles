@@ -33,7 +33,8 @@ echo "snake-game :)"
 sudo pacman -Sy --noconfirm snake
 echo "Kdenlive"
 sudo pacman -Sy --noconfirm kdenlive
-
+echo "microsoft-teams for my classes"
+sudo pacman -Sy --noconfirm teams
 
 echo "Now some dev stuff"
 sleep 1
@@ -43,3 +44,6 @@ echo "do this ^ after this is done"
 sleep 0.7
 echo "Node.js NPM"
 pacman -S --noconfirm nodejs npm
+
+echo "Login and passwords?"
+firefox -new-window "https://github.com/login" -new-window "https://myaccounts.google.com" -new-window "https://mail.google.com/mail/u/0/#inbox"
