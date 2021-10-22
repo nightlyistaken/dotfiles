@@ -1,6 +1,6 @@
-#!/bin/sh
 
-echo "Starting Setup..."
+
+
 echo "tell me if u want vscode insiders or vscode stable?"
 
 echo "1 for code insiders | 2 for code stable"
