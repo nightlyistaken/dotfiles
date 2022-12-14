@@ -17,7 +17,7 @@ sudo apt install -y \
 ## clone the repo using https or ssh
 
 ```sh
-git clone https://github.com/dhairy-online/dotfiles
+git clone https://github.com/subwoofer5/dotfiles
 ```
 
 then do 
